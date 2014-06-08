@@ -1,6 +1,6 @@
 {
     "name": "jv2222/ezsql_version",
-    "description": "*Support version*\n PHP class to make interacting with a database ridiculusly easy.",
+    "description": "*Support multi version*<br> PHP class to make interacting with a database ridiculusly easy.",
     "license": "LGPL",
     "authors": [
         {
